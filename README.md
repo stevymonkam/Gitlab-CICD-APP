@@ -20,7 +20,7 @@ LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
 
 ## Overview of the CI/CD Pipeline
 
-![pipeline ci/cd](../images/Gitlab-CI_pipeline.png "pipeline ci/cd")
+![pipeline ci/cd](images/Gitlab-CI_pipeline.png "pipeline ci/cd")
 
 ## CI/CD Pipeline Workflow with Execution Conditions
 
@@ -95,7 +95,7 @@ After each deployment to staging and production environments, I added stages to 
 ## Overview of the website
 
 
-![webapp](../images/webapp.png "webapp")
+![webapp](images/webapp.png "webapp")
 
 
 ## Technologies Used

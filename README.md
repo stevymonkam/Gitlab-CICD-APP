@@ -6,17 +6,9 @@ In this project, I containerized an existing static web application and set up a
 
 ---
 
-Author: Abdel-had HANAMI
+Author: MONKAM NAKTAKWEN STEVY
 
-Context: Bootcamp DevOps training, 12th promotion
-
-Training center: eazytraining.fr
-
-Period: March-April-May
-
-Date: April 15, 2023
-
-LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
+LinkedIn : [https://www.linkedin.com/in/abdel-had-hanami/](https://www.linkedin.com/in/stevy-monkam-naktakwen-a84299181/)
 
 ## Overview of the CI/CD Pipeline
 

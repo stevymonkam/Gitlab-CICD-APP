@@ -8,7 +8,7 @@ In this project, I containerized an existing static web application and set up a
 
 Author: MONKAM NAKTAKWEN STEVY
 
-LinkedIn : [https://www.linkedin.com/in/abdel-had-hanami/](https://www.linkedin.com/in/stevy-monkam-naktakwen-a84299181/)
+LinkedIn : [https://www.linkedin.com/in/stevy-monkam-naktakwen/](https://www.linkedin.com/in/stevy-monkam-naktakwen-a84299181/)
 
 ## Overview of the CI/CD Pipeline
 
